@@ -1,0 +1,47 @@
+                                 LICENSE
+
+TERMS:
+
+"Text": Any written file with the copyright notice (see Appendix)
+        clearly shown at the top of the file.
+
+"Distributor": The creator(s) of any given text under this license,
+               or the company at which the creator(s) work(s).
+               
+"Redistributor": Anyone using the file in their project other than
+                 the original distributor.
+
+CONDITIONS:
+
+1. No individual may present any texts under this license as their own,
+   and to use any of the texts, they must be included on an as is basis,
+   with the following document included:
+      
+      All given text originating from [distributor] is licensed and may
+      be distributed on an AS-IS basis, but ownership cannot be proclaimed
+      by any individual other than the original distributor. 
+      
+      The following files are under ownership by [distributor]:
+      
+      [[LIST OF FILES UNDER OWNER SHIP]]
+      
+2. If redistributed code under this license fails to work in the redistributor's
+   environment, unless by the distributor or tech support, any changes that
+   may break the environment cannot be used as a legal reason to file a complaint
+   or lawsuit in the case of loss of code.
+
+3. All code under this license must be well enough documented that any user
+   that attempts to use it can do so with sufficient knowledge of what it does
+   to prevent any unwarranted losses. If code is lost due to insufficiently
+   documented deletion protocols, then a lawsuit may be filed towards the
+   distributor.
+
+4. If redistributed code is used for any intent that could be considered
+   malicious, the original distributor may not be presented as an offendor
+   in law unless specifically involved in the redistribution. The same 
+   applies to any workers who are uninvolved or had insufficient knowledge
+   to realise what it did, although they may still be called upon as witnesses.
+
+5. Any clients using the redistributed code through a company may not be
+   considered involved in malicious activity unless they use it for their
+   own personal gain or to attack another individual.
