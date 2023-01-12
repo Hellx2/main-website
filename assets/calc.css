@@ -1,0 +1,8 @@
+#calculator {
+    border: solid 10px black;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    align-self: center;
+    width: 30%;
+}
